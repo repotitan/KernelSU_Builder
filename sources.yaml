@@ -1,6 +1,6 @@
 X01BD:
   kernel:
-    - git clone https://github.com/ellenoireQ/android_kernel_sdm660-4.19 -b X01BD
+    - git clone https://github.com/ellenoireQ/android_kernel_sdm660-4.19 -b Ratibor-Rebased-Master
   clang:
     - git clone --depth=1 https://gitlab.com/Jprimero15/lolz_clang.git -b main
   config:
